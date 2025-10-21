@@ -416,8 +416,8 @@ const wordDict={
 	"Bastion": "One that upholds or defends something, as against neglect or unpopularity",
 	"Angel Wing Syndrome": "A sad goose",
 	"Iodized salt": "🧂",
-	"Gödel's Incompleteness Theorem": "The first incompleteness theorem states that in any consistent formal system F within which a certain amount of arithmetic can be carried out, there are statements of the language of F which can neither be proved nor disproved in F.<br><br>According to the second incompleteness theorem, such a formal system cannot prove that the system itself is consistent (assuming it is indeed consistent).<br><br>- Stanford Encyclopedia of Philosophy"
-
+	"Gödel's Incompleteness Theorem": "The first incompleteness theorem states that in any consistent formal system F within which a certain amount of arithmetic can be carried out, there are statements of the language of F which can neither be proved nor disproved in F.<br><br>According to the second incompleteness theorem, such a formal system cannot prove that the system itself is consistent (assuming it is indeed consistent).<br><br>- Stanford Encyclopedia of Philosophy",
+	"Piquant": "Tart and spicy and pleasantly pungent like Manchego 🧀"
 };
 
 const wordArray = Object.keys(wordDict);
