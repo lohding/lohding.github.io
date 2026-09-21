@@ -87,7 +87,6 @@ p {
 .row > span:first-child {
   text-align: left;
   min-width: 0;
-  overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
