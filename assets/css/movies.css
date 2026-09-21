@@ -57,18 +57,18 @@ section, summary, time, mark, audio, video {
 
 h1 {
 	font-family: 'ISR';
-	font-size: 150%;
+	font-size: 250%;
 }
 
 span {
-	font-size: 100%;
+	font-size: 120%;
 	margin: 2px;
 }
 
 p {
 	font-family: 'Geist';
 	font-weight: 300;
-	font-size: 50%;
+	font-size: 70%;
 	line-height: 150%;
 }
 
