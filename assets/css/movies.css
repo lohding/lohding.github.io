@@ -36,9 +36,9 @@ body {
 	font-smooth: antialiased;
 	align-items: center;
 	text-align: center;
-	padding: 3%;
+	padding: 2% 4%;
   margin: 3%;
-  border: 0.5px solid black;
+  /* border: 1.5px solid black; */
 }
 
 html, body, div, span, applet, object,
@@ -52,7 +52,6 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	border: 0;
 	font-weight: 300;
 	vertical-align: baseline;
 }
