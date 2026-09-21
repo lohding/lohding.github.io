@@ -36,7 +36,9 @@ body {
 	font-smooth: antialiased;
 	align-items: center;
 	text-align: center;
-	padding: 6%;
+	padding: 3%;
+  margin: 3%;
+  border: 0.5px solid black;
 }
 
 html, body, div, span, applet, object,
@@ -58,6 +60,7 @@ section, summary, time, mark, audio, video {
 h1 {
 	font-family: 'ISR';
 	font-size: 250%;
+  user-select: none;
 }
 
 span {
