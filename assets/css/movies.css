@@ -88,10 +88,12 @@ p {
   text-align: left;
   min-width: 0;
   white-space: nowrap;
+  flex-shrink: 1;
 }
 
 .row > span:last-child {
   text-align: right;
+  flex-shrink: 0;
 }
 
 .details {
